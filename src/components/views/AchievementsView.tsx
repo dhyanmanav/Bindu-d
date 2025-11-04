@@ -7,7 +7,7 @@ interface AchievementsViewProps {
 export function AchievementsView({ setCurrentlyPlaying }: AchievementsViewProps) {
   const achievements = [
     {
-      title: 'IBM-Z Datathon Winner',
+      title: 'IBM-Z Datathon Participated',
       category: 'Competition',
       description: 'Created Child Security System using Python in a data coding competition',
       date: '2025',
